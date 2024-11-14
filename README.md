@@ -1,0 +1,1 @@
+# equivalent_resistance_calculator_api
